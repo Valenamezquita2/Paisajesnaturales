@@ -1,0 +1,17 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+}
+h2{
+    background-color: rgba(10, 204, 204, 0.822);
+    text-align: center;
+}
+a:hover{
+    color:beige;
+    font-size: 70px;
+    font-style: italic;
+}
+img:hover{
+    width: 100px;
+    height: 90px;
+}
